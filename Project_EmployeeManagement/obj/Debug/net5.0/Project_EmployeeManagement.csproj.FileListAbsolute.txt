@@ -1,0 +1,16 @@
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\obj\Debug\net5.0\Project_EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\obj\Debug\net5.0\Project_EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\obj\Debug\net5.0\Project_EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\obj\Debug\net5.0\Project_EmployeeManagement.AssemblyInfo.cs
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\obj\Debug\net5.0\Project_EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\bin\Debug\net5.0\Project_EmployeeManagement.exe
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\bin\Debug\net5.0\Project_EmployeeManagement.deps.json
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\bin\Debug\net5.0\Project_EmployeeManagement.runtimeconfig.json
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\bin\Debug\net5.0\Project_EmployeeManagement.runtimeconfig.dev.json
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\bin\Debug\net5.0\Project_EmployeeManagement.dll
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\bin\Debug\net5.0\ref\Project_EmployeeManagement.dll
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\bin\Debug\net5.0\Project_EmployeeManagement.pdb
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\obj\Debug\net5.0\Project_EmployeeManagement.dll
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\obj\Debug\net5.0\ref\Project_EmployeeManagement.dll
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\obj\Debug\net5.0\Project_EmployeeManagement.pdb
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\rev030722\day4\Project_EmployeeManagement\obj\Debug\net5.0\Project_EmployeeManagement.genruntimeconfig.cache
