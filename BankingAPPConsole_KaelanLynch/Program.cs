@@ -6,16 +6,24 @@ namespace BankingAPPConsole_KaelanLynch
     {
         static void Main(string[] args)
         {
-           
-           accNo = 000456789455;
-           accName = "Kaelan Lynch";
-           accType = "Checking";
-           accBalance = 1000;
-           accIsActive = true;
-           accEmail = "kdog93@gmail.com";
+             Accounts acc = new Accounts();
+         acc.accNo = 000456789455;
+         acc.accName = "Kaelan Lynch";
+         acc.accType = "Checking";
+         acc.accBalance = 1000;
+         acc.accIsActive = true;
+         acc.accEmail = "kdog93@gmail.com";
+         
+        Accounts newacct = new Accounts();
 
-        Accounts acct = new Accounts();
+       // int newacctNo;
+        string newacctName;
+        string newacctType;
+       // int newacctBalance;
+        string newacctEmail;
+
 #region Menu
+
         Console.WriteLine("1. Create New Account");
         Console.WriteLine("2. Check Balance");
         Console.WriteLine("3. Withdraw");
@@ -23,19 +31,30 @@ namespace BankingAPPConsole_KaelanLynch
         Console.WriteLine("5. Get Details");
         Console.WriteLine("6. Exit");
         Console.WriteLine("PLEASE SELECT AN OPTION");
+        int input = Convert.ToInt32(Console.ReadLine());
 
-    switch(acct){
-        case 1: //CREATE ACCOUNT??
+    switch(input){
+        case 1: 
+            System.Console.WriteLine("Please enter your full legal name");
+            newacctName = Console.ReadLine();
+            System.Console.WriteLine("Select the account type");
+            newacctType = Console.ReadLine();
+            System.Console.WriteLine("Enter your email");
+            newacctEmail = Console.ReadLine();
+            System.Console.WriteLine(newacctName);
+            System.Console.WriteLine(newacctType);
+            System.Console.WriteLine(newacctEmail);
+
         break;
-        case 2: checkBalance();
+        case 2: acc.checkBalance();
         break;
-        case 3: withdraw();
+        case 3: acc.withdraw(acc.accBalance);
         break;
-        case 4: deposit();
+        case 4: acc.deposit(acc.accBalance);
         break;
-        case 5: getAccountDetails();
+        case 5: acc.getAccountDetails();
         break;
-        case 6: System.Exit();
+        case 6: 
         break;
         default: System.Console.WriteLine("Please enter one of the above options");
         break;
@@ -44,39 +63,41 @@ namespace BankingAPPConsole_KaelanLynch
     }
     class Accounts
     {
+        
 #region Properties
         public int accNo { get; set; }
         public string accName { get; set; }
         public string accType { get; set; }
-        public double accBalance { get; set; }
+        public int accBalance { get; set; }
         public bool accIsActive { get; set; }
         public string accEmail { get; set; }
 #endregion
 #region Account Methods
-   void withdraw(int accBalance)
+   public int withdraw(int accBalance)
    {
        System.Console.WriteLine("Enter an amount to withdraw");
-       accBalance = accBalance - (Convert.ToInt32Console.ReadLine());
-       System.Console.WriteLine(accBalance);
+       accBalance = accBalance - (Convert.ToInt32(Console.ReadLine()));
+
+       return accBalance;
    }
-   void deposit(int accBalance)
+  public int deposit(int accBalance)
    {
         System.Console.WriteLine("Enter an amount to deposit");
-       accBalance = accBalance + (Convert.ToInt32Console.ReadLine());
-       System.Console.WriteLine(accBalance);
+       accBalance = accBalance + (Convert.ToInt32(Console.ReadLine()));
+       return accBalance;
 
    }
-   static void getAccountDetails(){
-       Console.WriteLine(acct.accNo);
-       Console.WriteLine(acct.accName);
-       Console.WriteLine(acct.accType);
-       System.Console.WriteLine(acct.accBalance);
-        System.Console.WriteLine(acct.accEmail);
+   public void getAccountDetails(){
+       Console.WriteLine(accNo);
+       Console.WriteLine(accName);
+       Console.WriteLine(accType);
+       System.Console.WriteLine(accBalance);
+        System.Console.WriteLine(accEmail);
     
    }
 
-   void checkBalance(){
-       System.Console.WriteLine(accBalance);
+   public int checkBalance(){
+       return accBalance;
    }
     }
     #endregion

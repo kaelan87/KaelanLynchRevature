@@ -1,0 +1,16 @@
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\obj\Debug\net5.0\BankingAPPConsole_KaelanLynch.csproj.AssemblyReference.cache
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\obj\Debug\net5.0\BankingAPPConsole_KaelanLynch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\obj\Debug\net5.0\BankingAPPConsole_KaelanLynch.AssemblyInfoInputs.cache
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\obj\Debug\net5.0\BankingAPPConsole_KaelanLynch.AssemblyInfo.cs
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\obj\Debug\net5.0\BankingAPPConsole_KaelanLynch.csproj.CoreCompileInputs.cache
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\bin\Debug\net5.0\BankingAPPConsole_KaelanLynch.exe
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\bin\Debug\net5.0\BankingAPPConsole_KaelanLynch.deps.json
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\bin\Debug\net5.0\BankingAPPConsole_KaelanLynch.runtimeconfig.json
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\bin\Debug\net5.0\BankingAPPConsole_KaelanLynch.runtimeconfig.dev.json
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\bin\Debug\net5.0\BankingAPPConsole_KaelanLynch.dll
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\bin\Debug\net5.0\ref\BankingAPPConsole_KaelanLynch.dll
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\bin\Debug\net5.0\BankingAPPConsole_KaelanLynch.pdb
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\obj\Debug\net5.0\BankingAPPConsole_KaelanLynch.dll
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\obj\Debug\net5.0\ref\BankingAPPConsole_KaelanLynch.dll
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\obj\Debug\net5.0\BankingAPPConsole_KaelanLynch.pdb
+C:\Users\Kaelan\Documents\.NetFullStack 03072022\training_sessions\project0\BankingAPPConsole_KaelanLynch\obj\Debug\net5.0\BankingAPPConsole_KaelanLynch.genruntimeconfig.cache
