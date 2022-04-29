@@ -1,21 +1,29 @@
-Technologies Used
-Visual Studio for Windows
-C#
-.NET Core 6.0
-Swagger
-SQL Server
+# The Paris Creperie
 
-Features
-Add, update or delete food or drink items from a menu
-Add, update or delete orders
-Add, update or delete customers
+## Project Description
+A love letter to the cafe I worked at in Boston many years ago, the Paris Creperie has been warming the hearts of Brookline's residents since 1994. 
+I built a REST API in order to facilitate an online ordering system for their company, with menu capabilities as well as customer account management.
 
-To-Do List:
-Ensure all parts of the program run smoothly
-Implement UI using Angular
-More customer capabilities— writing reviews, taking payment, leaving tips
+## Technologies Used
+* Visual Studio for Windows
+* C#
+* .NET Core 6.0
+* Swagger
+* SQL Server
+* ASP.NET
+* ADO.NET
 
-Getting Started
+## Features
+* Add, update or delete food or drink items from a menu
+* Add, update or delete orders
+* Add, update or delete customers
+
+## To-Do List:
+* Ensure all parts of the program run smoothly
+* Implement UI using Angular
+* More customer capabilities— writing reviews, taking payment, leaving tips
+
+## Getting Started
 1 - Clone the reposisotry (git clone https://github.com/kaelan87/KaelanLynchRevature.git)
 
 2 - Create an SQL Server on whatever platform you desire
@@ -28,5 +36,5 @@ Getting Started
 
 6 -  Enjoy the app!
 
-License
+## License
 This project uses the following license: MIT
